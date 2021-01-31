@@ -11,7 +11,7 @@ sections:
       - label: Settings
         url: /contact
         style: secondary
-    align: left
+    align: center
     image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
