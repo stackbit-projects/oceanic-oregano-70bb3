@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Personal Dashboard
-    subtitle: 'A personalized dashboard for '
+    subtitle: A personalized dashboard for your day-to-day life.
     actions:
       - label: Learn More
         url: /features
