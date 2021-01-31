@@ -6,7 +6,7 @@ sections:
     subtitle: A personalized dashboard for your day-to-day life.
     actions:
       - label: Get Started
-        url: /features
+        url: /get
         style: primary
       - label: Settings
         url: /contact
