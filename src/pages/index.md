@@ -5,7 +5,7 @@ sections:
     title: Personal Dashboard
     subtitle: A personalized dashboard for your day-to-day life.
     actions:
-      - label: ''
+      - label: Get Started
         url: /features
         style: primary
       - label: Contact Us
